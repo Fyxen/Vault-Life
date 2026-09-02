@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4302ff224263c4c8","type":"text","text":"Einkommen ab Januar absichern","x":-72,"y":185,"width":331,"height":59},
+		{"id":"595ed0f2abdad192","type":"text","text":"PhD-Thesis zuende Schreiben","x":204,"y":-129,"width":250,"height":60},
+		{"id":"7f621618de949898","type":"text","text":"Linked-In","x":137,"y":-24,"width":250,"height":60},
+		{"id":"2ba75393e30162c9","type":"text","text":"CV - schreiben","x":-81,"y":-343,"width":250,"height":60},
+		{"id":"69758c8ca2805cda","type":"text","text":"Bewerbungs Blueprint","x":-102,"y":-200,"width":250,"height":60},
+		{"id":"8e0712008dfc9536","type":"text","text":"Skills und Certificates Erwerben","x":-365,"y":-322,"width":250,"height":60},
+		{"id":"8249d70ed3d90dd2","type":"text","text":"Für Jobs Bewerben","x":259,"y":-347,"width":250,"height":60},
+		{"id":"679d32abe5815f06","type":"text","text":"Nebenjob","x":-318,"y":27,"width":250,"height":60},
+		{"id":"872187b8416573cb","type":"text","text":"Ideale Benefits/Prioritäten\n(Verhandlungsbasis)\n- Genügend Gehalt\n  (berechne aktuell und Wunsch)\n- Stunden \n  (35->30/40-Modell)\n- Spaß\n- Homeoffice Möglichkeit\n- Kontakt zu Mitarbeitern\n- Möglichkeiten sich zu Entwickeln\n- ","x":-316,"y":-720,"width":360,"height":373},
+		{"id":"12836891b8132fdc","type":"text","text":"Arbeitslos Melden\n- wie Viel Einkommen generiert das\n- was muss ich organisieren ?\n- wann muss ich das organisieren?","x":134,"y":-680,"width":375,"height":243},
+		{"id":"f14c96fdfa5977cc","type":"text","text":"Lebenserhaltungskosten Berechnen","x":-432,"y":184,"width":250,"height":60},
+		{"id":"7cdc3f32cbdd3a9b","type":"text","text":"Lebenserhaltungskosten Minimieren\n- Stromanbieter wechseln\n\t- Neuen Anbieter Rechnerchieren\n- Kirchenaustritt\n\t- Geburtsurkunde Organisieren\n\t- Termin in Büergeramt machen\n- Abos beenden\n\t- Bild der Wissenschaft ","x":614,"y":-240,"width":386,"height":297},
+		{"id":"156e892f0fb7a7a9","type":"text","text":"Andere Einkommensquellen\n- Patent\n\t- Organisiere Patentprüfung","x":-920,"y":-625,"width":250,"height":92},
+		{"id":"52ab85d153f3c30e","type":"text","text":"Plan B:\nStay at University\n- Requirements:\n  finish Thesis ","x":-920,"y":-337,"width":250,"height":208},
+		{"id":"256dc185adc8dd35","type":"text","text":"**STEADY - INCOME**\n**KARRIERE PLANUNG**\n\nAb Januar Endet mein Vertrag und ich muss unbeding mein Einkommen Absichern","x":-318,"y":-1000,"width":580,"height":215,"color":"3"},
+		{"id":"b3332fa9e3f8360d","type":"text","text":"Levi\n- Ags\n- Kindergeld\n- Hortkosten\n- Cafeteria","x":-574,"y":-224,"width":209,"height":250}
+	],
+	"edges":[
+		{"id":"f3d6c8d78aa99203","fromNode":"f14c96fdfa5977cc","fromSide":"bottom","toNode":"b3332fa9e3f8360d","toSide":"top"}
+	]
+}

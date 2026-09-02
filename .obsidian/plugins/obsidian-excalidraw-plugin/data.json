@@ -4,7 +4,13 @@
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
   "phoneFooterSafeAreaPadding": false,
+  "tabletFooterSafeAreaPadding": false,
   "folder": "Excalidraw",
+  "libraryFolderPath": "Excalidraw/Libraries",
+  "libraryFileName": "local-library",
+  "libraryStorageMode": "vault",
+  "libraryMigrationStatus": "completed",
+  "libraryMigrationSnoozeUntil": 0,
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -120,47 +126,8 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.24.1",
-    "libraryItems": [
-      {
-        "id": "vbhlncboAI6n2ypSApiwc",
-        "status": "unpublished",
-        "elements": [
-          {
-            "type": "rectangle",
-            "version": 49,
-            "versionNonce": 1878337122,
-            "index": "aB",
-            "isDeleted": false,
-            "id": "EOwVPlj4n5Vx0Ubkpdo9j",
-            "fillStyle": "solid",
-            "strokeWidth": 2,
-            "strokeStyle": "solid",
-            "roughness": 1,
-            "opacity": 100,
-            "angle": 0,
-            "x": -300,
-            "y": -400,
-            "strokeColor": "#e03131",
-            "backgroundColor": "#ffec99",
-            "width": 500,
-            "height": 100,
-            "seed": 667491518,
-            "groupIds": [],
-            "frameId": null,
-            "roundness": {
-              "type": 3
-            },
-            "boundElements": [],
-            "updated": 1725619346393,
-            "link": null,
-            "locked": false,
-            "hasTextLink": false
-          }
-        ],
-        "created": 1725619355015
-      }
-    ]
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.26.4",
+    "libraryItems": []
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -169,8 +136,31 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
+  "markdownImageSettings": {
+    "defaults": {
+      "width": 500,
+      "paddingBottom": 10,
+      "fontFamily": "Virgil",
+      "fontColor": "Black",
+      "border": {
+        "enabled": false,
+        "color": "Black"
+      },
+      "css": "",
+      "transclusion": {
+        "enabled": false,
+        "fontFamily": "Cascadia",
+        "fontColor": "Black",
+        "border": {
+          "enabled": false,
+          "color": "Black"
+        },
+        "css": ""
+      }
+    }
+  },
   "scriptEngineSettings": {},
-  "previousRelease": "2.24.1",
+  "previousRelease": "2.26.4",
   "showReleaseNotes": true,
   "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
@@ -1051,7 +1041,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

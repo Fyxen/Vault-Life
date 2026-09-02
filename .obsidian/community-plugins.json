@@ -1,10 +1,8 @@
 [
   "dataview",
   "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "templater-obsidian",
-  "obsidian-kanban",
   "calendar",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
@@ -32,5 +30,8 @@
   "obsidian-icon-folder",
   "obsidian-emoji-toolbar",
   "emoji-shortcodes",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-kanban",
+  "mindmap",
+  "obsidian-excalidraw-plugin"
 ]
