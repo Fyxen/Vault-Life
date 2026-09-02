@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 19,
+  "accentColor": "#60e68f",
+  "showRibbon": true
+}

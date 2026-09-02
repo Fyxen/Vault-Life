@@ -1,0 +1,10 @@
+{
+  "autoDetection": true,
+  "extensions": [
+    "pdf"
+  ],
+  "folder": "Literature",
+  "filenameFormat": "@{{NAME}}",
+  "templatePath": "Templates/article.md.md",
+  "useTemplater": false
+}
