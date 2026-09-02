@@ -1,2 +1,7 @@
 /.smart-env
 /.claudian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/appearance.json
+.obsidian/graph.json
