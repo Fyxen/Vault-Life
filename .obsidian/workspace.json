@@ -11,12 +11,14 @@
             "id": "29ba8b9068a019a1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Karriere Planung.excalidraw"
+                "file": "Budget.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Karriere Planung"
+              "icon": "lucide-file",
+              "title": "Budget"
             }
           }
         ],
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karriere Planung.excalidraw",
+                "file": "Budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,13 +233,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6031deb0ede3134",
+  "active": "29ba8b9068a019a1",
   "lastOpenFiles": [
+    "Skills & Achievements.md",
+    "Tasks.md",
+    "Verhandlunsbasis.md",
     "Budget.md",
     "Karriere Planung.excalidraw",
-    "Verhandlunsbasis.md",
-    "Tasks.md",
-    "Skills & Achievements.md",
+    "Job-Opportunities.md",
     "Mind-Map Overview.canvas",
     "Untitled Kanban.md",
     "Excalidraw/Project Mind-Map.md",
