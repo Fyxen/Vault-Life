@@ -1,4 +1,4 @@
-Hier Lege ich Ideale Benefits und Prioritäten (markiert mit ⭐)
+**Hier Lege ich Ideale Benefits und Prioritäten (markiert mit ⭐)**
 
 • Genügend Gehalt ⭐⭐⭐⭐⭐
 	  - monatliche Ausgaben
@@ -17,3 +17,4 @@ Hier Lege ich Ideale Benefits und Prioritäten (markiert mit ⭐)
 • Kontakt zu Mitarbeitern (brauche ich für Spaß) ⭐⭐⭐
 - Arbeiten im Team ⭐⭐
 • Möglichkeiten sich zu Entwickeln (brauche ich für Spaß) ⭐⭐⭐
+

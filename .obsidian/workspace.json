@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Budget.md",
+                "file": "Skills & Achievements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Budget"
+              "title": "Skills & Achievements"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Budget.md",
+                "file": "Skills & Achievements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,10 +235,10 @@
   },
   "active": "29ba8b9068a019a1",
   "lastOpenFiles": [
-    "Skills & Achievements.md",
-    "Tasks.md",
     "Verhandlunsbasis.md",
     "Budget.md",
+    "Skills & Achievements.md",
+    "Tasks.md",
     "Karriere Planung.excalidraw",
     "Job-Opportunities.md",
     "Mind-Map Overview.canvas",
