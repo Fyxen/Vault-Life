@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21733368c5279c3d",
+        "id": "d7077c9e56e90138",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e9cd61d007e0c4",
+            "id": "29ba8b9068a019a1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -19,7 +19,8 @@
               "title": "Karriere Planung"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +45,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -107,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rückverweise"
             }
           },
           {
@@ -167,7 +168,27 @@
             }
           },
           {
-            "id": "2c1cfbe7289d4a51",
+            "id": "24823bba39e1fd32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "32c809f436ac577a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "f6031deb0ede3134",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -175,9 +196,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "201c41e613d90f79",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -185,35 +216,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e9cd61d007e0c4",
+  "active": "f6031deb0ede3134",
   "lastOpenFiles": [
-    "Projekte/Karriereplanung/Planning.md",
+    "Budget.md",
+    "Karriere Planung.excalidraw",
+    "Verhandlunsbasis.md",
+    "Tasks.md",
+    "Skills & Achievements.md",
     "Mind-Map Overview.canvas",
     "Untitled Kanban.md",
-    "Karriere Planung.excalidraw",
+    "Excalidraw/Project Mind-Map.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
+    "Mind 2026-09-02 14.35.58.mindmap.md",
+    "Unbenannt 1.base",
+    "Projekte/Karriereplanung/Planning.md",
+    "Projekte/Karriereplanung/Qualifications/PhD.md",
+    "Projekte/Karriereplanung/Qualifications/Patents.md",
+    "Unbenannt.base",
     "Daily ToDos/tmp.md",
     "Projekte/Karriereplanung/Job Related/Linked-In.md",
-    "Projekte/Karriereplanung/Qualifications/Patents.md",
     "Projekte/Karriereplanung/Qualifications/Publications.md",
     "Welcome.md",
     "Projekte/Karriereplanung/Job Related",
     "Projekte/Karriereplanung/Job Opportunities.md",
     "JobRelated",
-    "Projekte/Karriereplanung/Qualifications/PhD.md",
     "Projekte/Karriereplanung/Qualifications/Prices.md",
     "Projekte/Karriereplanung/Qualifications",
     "Projekte/Karriereplanung/Definition.md",
@@ -221,8 +264,6 @@
     "Projekte/Karriereplanung/Job Related/Bewerbungen.md",
     "Projekte/Karriereplanung/Qualifications/Certificate Programs.md",
     "Projekte/Karriereplanung/Risks.md",
-    "Projekte/Karriereplanung",
-    "Daily ToDos",
-    "Projekte"
+    "Projekte/Karriereplanung"
   ]
 }
